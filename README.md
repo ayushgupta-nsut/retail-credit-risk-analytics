@@ -3,7 +3,7 @@
 An end-to-end data analytics project analysing a simulated retail lending portfolio to identify credit-risk drivers, loan-demand patterns and operational bottlenecks.
 
 ### Dashboard
-[Live Interactive Dashboard](https://YOUR-USERNAME.github.io/retail-credit-risk-analytics/)
+[Live Interactive Dashboard](https://ayushgupta-nsut.github.io/retail-credit-risk-analytics/)
 
 ### Tools
 Python | SQL | Excel | HTML/JavaScript dashboard
@@ -57,7 +57,6 @@ Portfolio: 99,884 applications, 69.1% approved, 3.8% default rate, estimated cre
 - Highest-risk region is Central (4.5% default); lowest is South (3.5%).
 - Demand peaks in Oct, Nov, Dec (festive/year-end season) and is lowest in Feb: plan staffing and credit-check capacity ahead of Q4.
 - SLA breaches (decision > 5 days) fell from 31.2% in 2023 to 20.4% in 2025, but remain material.
-- Highest-risk segment: E grade, DTI 40%+ with a 22.5% default rate.
 
 ## Recommendations
 1. Tighten approval rules or pricing for Grade D/E applicants with DTI above 40% (see risk pockets).
